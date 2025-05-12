@@ -40,7 +40,7 @@
 
 | Home Page | QR Code |
 |-----------|---------|
-| ![Homepage](./images/home.png) | ![QR](./images/qr.png) |
+| ![Homepage](./images/homepage.png) | ![QR](./images/qr.png) |
 
 ---
 
